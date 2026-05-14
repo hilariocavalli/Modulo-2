@@ -1,12 +1,2 @@
-# Modulo-1
-Ejercicio 1: Cómo crear, modificar y hacer el archivo README.md
-
-Ejercicio 2: Creación de un archivo html en forma manual
-
-Ejercicio 3: Crear un archivo LATex en https://overleaf.com
-
-Ejercicio 4: Creación de notebooks
-
-Ejercicio 5: Creación de un CV en LATex
-
-Ejercicio 6: Creación de un archivo con metadatos en el entorno R
+# Modulo-2
+En este repositorio se presentan los resultados de una investigación sobre eficiencia computacional aplicada a la ingeniería. El análisis se basa en pruebas empíricas que contrastan el desempeño de funciones iterativas frente a métodos vectorizados en el lenguaje R, con el fin de proponer mejoras en el tratamiento industrial de información. Para garantizar la reproducibilidad, los ejercicios se desarrollaron en Posit Cloud empleando documentos dinámicos de R Markdown.
